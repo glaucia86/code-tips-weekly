@@ -25,7 +25,7 @@ Abaixo vocês encontrarão todos os Code Tips que saem todas as quartas-feiras n
 | Code Tips #06  | Uso do método 'concat' em JavaScript | **[Code Tips #06](code-tips/code-tips-06.js)**  | **[Tweet](https://twitter.com/glaucia_lemos86/status/1433819717463052302)** |
 | Code Tips #07 | Uso do método 'assign' em JavaScript | **[Code Tips #07](code-tips/code-tips-07.js)**  | **[Tweet](https://twitter.com/glaucia_lemos86/status/1435610069425692675)** |
 | Code Tips #08 | Uso do método 'flat' em JavaScript | **[Code Tips #08](code-tips/code-tips-08.js)**  | **[Tweet](https://twitter.com/glaucia_lemos86/status/1440705507056971776)** |
-| Code Tips #09 | Teste  | Teste  | **[Tweet]()** |
+| Code Tips #09 | Diferentes usos de arrays em JavaScript | **[Code Tips #09](code-tips/code-tips-09.js)* | **[Tweet](https://twitter.com/glaucia_lemos86/status/1448303109919416322)** |
 | Code Tips #10 | Teste  | Teste  | **[Tweet]()** |
 | Code Tips #11 | Teste  | Teste  | **[Tweet]()** |
 | Teste  | Teste  | Teste  | **[Tweet]()** |
