@@ -23,8 +23,8 @@ Abaixo vocês encontrarão todos os Code Tips que saem todas as quartas-feiras n
 | Code Tips #04 | Uso do método 'fromEntries' em JavaScript | **[Code Tips #04](code-tips/code-tips-04.js)** | **[Tweet](https://twitter.com/glaucia_lemos86/status/1425464520642732036)** |
 | Code Tips #05 | Uso do método 'entries' em JavaScript | **[Code Tips #05](code-tips/code-tips-05.js)** | **[Tweet](https://twitter.com/glaucia_lemos86/status/1427993688307757062)** |
 | Code Tips #06  | Uso do método 'concat' em JavaScript | **[Code Tips #06](code-tips/code-tips-06.js)**  | **[Tweet](https://twitter.com/glaucia_lemos86/status/1433819717463052302)** |
-| Code Tips #07 | Teste  | **[Code Tips #07](code-tips/code-tips-07.js)**  | **[Tweet](https://twitter.com/glaucia_lemos86/status/1435610069425692675)** |
-| Code Tips #08 | Teste  | Teste  | **[Tweet]()** |
+| Code Tips #07 | Uso do método 'assign' em JavaScript | **[Code Tips #07](code-tips/code-tips-07.js)**  | **[Tweet](https://twitter.com/glaucia_lemos86/status/1435610069425692675)** |
+| Code Tips #08 | Uso do método 'flat' em JavaScript | **[Code Tips #08](code-tips/code-tips-08.js)**  | **[Tweet](https://twitter.com/glaucia_lemos86/status/1440705507056971776)** |
 | Code Tips #09 | Teste  | Teste  | **[Tweet]()** |
 | Code Tips #10 | Teste  | Teste  | **[Tweet]()** |
 | Code Tips #11 | Teste  | Teste  | **[Tweet]()** |
