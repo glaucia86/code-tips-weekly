@@ -15,19 +15,19 @@ Toda semana dicas de código em JavaScript ou TypeScript.
 
 Abaixo vocês encontrarão todos os Code Tips que saem todas as quartas-feiras nas principais redes sociais!
 
-| Code Tip  | Descrição  | Código  |   
-|---|---|---|
-| Code Tips #01  | Tuplas com Spread Operator com TypeScript  | [Code Tips #01](code-tips/code-tips-01.ts)  |   
-| Code Tips #02 |  Uso do objeto 'Set' com Spread Operator com JavaS ript | [Code Tips #02](code-tips/code-tips-02.js) | 
-| Teste  | Teste  | Teste  | 
-| Teste  | Teste  | Teste  | 
-| Teste  | Teste  | Teste  | 
-| Teste  | Teste  | Teste  | 
-| Teste  | Teste  | Teste  | 
-| Teste  | Teste  | Teste  | 
-| Teste  | Teste  | Teste  | 
-| Teste  | Teste  | Teste  | 
-| Teste  | Teste  | Teste  | 
+| Code Tip  | Descrição  | Código  |  Tweet  |
+|---|---|---|---|
+| Code Tips #01 | Tuplas com Spread Operator com TypeScript | **[Code Tips #01](code-tips/code-tips-01.ts)**  |  **[Tweet](https://twitter.com/glaucia_lemos86/status/1417917256575619073)** |
+| Code Tips #02 |  Uso do objeto 'Set' com Spread Operator com JavaScript | **[Code Tips #02](code-tips/code-tips-02.js)** | **[Tweet](https://twitter.com/glaucia_lemos86/status/1420373519930699779)** |
+| Code Tips #03 | Uso do método 'table' no console em JavaScript | **[Code Tips #03](code-tips/code-tips-03.js)** | **[Tweet](https://twitter.com/glaucia_lemos86/status/1422968142247120899)** |
+| Teste  | Teste  | Teste  | [Tweet]() |
+| Teste  | Teste  | Teste  | [Tweet]() |
+| Teste  | Teste  | Teste  | [Tweet]() |
+| Teste  | Teste  | Teste  | [Tweet]() |
+| Teste  | Teste  | Teste  | [Tweet]() |
+| Teste  | Teste  | Teste  | [Tweet]() |
+| Teste  | Teste  | Teste  | [Tweet]() |
+| Teste  | Teste  | Teste  | [Tweet]() |
 
 ## ❗️ Links & Recursos Importantes
 
