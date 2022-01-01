@@ -18,7 +18,7 @@ Abaixo vocês encontrarão todos os Code Tips que saem todas as quartas-feiras n
 | Code Tip  | Descrição  | Código  |   
 |---|---|---|
 | Code Tips #01  | Tuplas com Spread Operator com TypeScript  | [Code Tips #01](code-tips/code-tips-01.ts)  |   
-| Code Tips #02 |  Teste | Teste  | 
+| Code Tips #02 |  Uso do objeto 'Set' com Spread Operator com JavaS ript | [Code Tips #02](code-tips/code-tips-02.js) | 
 | Teste  | Teste  | Teste  | 
 | Teste  | Teste  | Teste  | 
 | Teste  | Teste  | Teste  | 
