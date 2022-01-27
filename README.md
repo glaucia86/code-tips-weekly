@@ -29,8 +29,8 @@ Abaixo vocês encontrarão todos os Code Tips que saem todas as quartas-feiras n
 | Code Tips #10 | Uso de Tuplas (heterogêneas e homogêneas) | **[Code Tips #10](code-tips/code-tips-10.ts)**  | **[Tweet](https://twitter.com/glaucia_lemos86/status/1450869515269591044)** |
 | Code Tips #11 | Uso do 'Array.fill()' em JavaScript  | **[Code Tips #11](code-tips/code-tips-11.js)** | **[Tweet](https://twitter.com/glaucia_lemos86/status/1460977700538101766)** |
 | Code Tips #12  | Uso do método 'split()' em JavaScript  | **[Code Tips #12](code-tips/code-tips-12.js)**  | **[Tweet](https://twitter.com/glaucia_lemos86/status/1478749778225864711)** |
-| Code Tips #13  | Teste  | Teste  | **[Tweet]()** |
-| Code Tips #14  | Teste  | Teste  | **[Tweet]()** |
+| Code Tips #13  | Uso do método 'push()' em JavaScript  | **[Code Tips #13](code-tips/code-tips-13.js)** | **[Tweet](https://twitter.com/glaucia_lemos86/status/1483835720238260227)** |
+| Code Tips #14  | Uso do método 'apply()' em JavaScript  | **[Code Tips #14](code-tips/code-tips-14.js)** | **[Tweet](https://twitter.com/glaucia_lemos86/status/1486444634079469570)** |
 | Code Tips #15  | Teste  | Teste  | **[Tweet]()** |
 
 ## ❗️ Links & Recursos Importantes
